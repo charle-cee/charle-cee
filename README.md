@@ -27,7 +27,7 @@ Specializing in:
 | Project | Description | Technologies | Live Demo |
 |---------|-------------|--------------|-----------|
 | **[NotesShare](https://github.com/charle-cee/NotesShare_App)** | Collaborative learning platform | PHP, MySQL, JavaScript | [View](https://notesshare.wuaze.com) |
-| **[SMS Pro](https://github.com/charle-cee/SMS)** | School management system | PHP, Bootstrap | [View](https://ngcss.great-site.net) |
+| **[SMS Pro](https://github.com/charle-cee/SMS)** | School management system | PHP, Bootstrap | [View](https://bishopauneau.ac.mw/pwa) |
 | **[Malawi Job Portal](https://github.com/charle-cee/JobPortal)** | Job vacancy platform | PHP, Twilio API | [View](https://malawi-vacancy-website.epizy.com) |
 
 <!-- EDUCATION -->
